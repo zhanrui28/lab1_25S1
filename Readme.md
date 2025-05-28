@@ -1,5 +1,14 @@
 # ET0735 – Lab 1 (Introduction to Git and GitHub)
 
+git init
+- initialise the local repo
+
+git status
+- check any change in the repository.
+
+git add <fiename>
+- add the file to staging.
+
 git commit -m <comment/remark>
 - commit the files in the staging to the local repository.
 
